@@ -20,7 +20,7 @@
 
 	<servlet-mapping>
 		<servlet-name>Dispatcher</servlet-name>
-		<url-pattern>/spring-mvc/*</url-pattern>
+		<url-pattern>/</url-pattern>
 	</servlet-mapping>
 
 	<context-param>
